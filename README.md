@@ -1,16 +1,17 @@
-## Hi there 👋
+# noahsoft-kr
 
-<!--
-**noahsoft-kr/noahsoft-kr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This account is used by **NOAHSOFT** as a dedicated identity for **ChatGPT-assisted code review and repository operations**.
 
-Here are some ideas to get you started:
+## Purpose
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+`noahsoft-kr` may be used to:
+
+- review pull requests and leave review comments;
+- request changes or approve pull requests based on code review results;
+- assist with repository maintenance tasks explicitly requested by NOAHSOFT maintainers.
+
+## Transparency
+
+Reviews, comments, and other repository actions made through this account may be generated or assisted by ChatGPT.
+
+This account is **not an official OpenAI or ChatGPT account**, and it does not represent OpenAI. Final responsibility for repository changes, merges, releases, and project decisions remains with the relevant NOAHSOFT maintainers.
